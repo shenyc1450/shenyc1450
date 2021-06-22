@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shenyc1450
 - 👀 I’m interested in music,sports.
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning Java, SQL Server and so on. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
